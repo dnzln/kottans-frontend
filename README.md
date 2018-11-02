@@ -14,4 +14,4 @@
     (Learn git branching)[http://learngitbranching.js.org/] also was very helpful
     to put in order all new information and to deepen understanding of branching.
 
-![Udacity Git course results](git-and-github.png)
+![Udacity Git course results](blob/master/git-and-github/git-and-github.png)
