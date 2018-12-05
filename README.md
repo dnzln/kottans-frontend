@@ -37,10 +37,24 @@ create better websites and web applications.
 ## Git Collaboration
 
 These courses helped consolidate Git's knowledge of the first task.
-Commands like "git rebase", "git revert", "git reset" and "git commit -amend"
+Commands like "git rebase", "git revert", "git reset" and "git commit --amend"
 were new to me. I met them in additional materials from the first task, 
 but did not fully understand how to use them. 
 Now I understand and am going to use them to edit the history of commits.
 
 ![Git Collaboration](https://github.com/dnzln/kottans-frontend/blob/master/task_git_collaboration/task21.png)
 ![Git Collaboration](https://github.com/dnzln/kottans-frontend/blob/master/task_git_collaboration/task22.png)
+
+## Intro to HTML and CSS
+
+I really liked html academy - all information was easy 
+to understand and theory was given in a friendly way. Freecodecamp also provides
+good HTML and CSS basics. I have already taken some of these courses before,
+but it was great to update old knowledge. Some tools were new to me, for example
+awsome [box-shadow generator](https://www.cssmatic.com/box-shadow), 
+whitch I maybe will use in the future. Also I found great new 
+reference [CSS Almanac](https://css-tricks.com/almanac/) in Udacity course. 
+
+![Intro to HTML and CSS](https://github.com/dnzln/kottans-frontend/blob/master/task_html_css_intro/task41.png)
+![Intro to HTML and CSS](https://github.com/dnzln/kottans-frontend/blob/master/task_html_css_intro/task421.png)
+![Intro to HTML and CSS](https://github.com/dnzln/kottans-frontend/blob/master/task_html_css_intro/task422.png)
