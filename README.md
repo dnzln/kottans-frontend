@@ -58,3 +58,32 @@ reference [CSS Almanac](https://css-tricks.com/almanac/) in Udacity course.
 ![Intro to HTML and CSS](https://github.com/dnzln/kottans-frontend/blob/master/task_html_css_intro/task41.png)
 ![Intro to HTML and CSS](https://github.com/dnzln/kottans-frontend/blob/master/task_html_css_intro/task421.png)
 ![Intro to HTML and CSS](https://github.com/dnzln/kottans-frontend/blob/master/task_html_css_intro/task422.png)
+
+## Responsive Web Design
+
+This was an interesting section. I learned about the different ways for creating layouts, 
+how to make them adaptive, and also done a fun training session with frogs for understanding the work of flexbox. Almost everything was new to me, and I hope to use this knowledge to create responsive websites.
+
+![Responsive Web Design](https://github.com/dnzln/kottans-frontend/blob/master/task_responsive_web_design/respons.png)
+![Responsive Web Design](https://github.com/dnzln/kottans-frontend/blob/master/task_responsive_web_design/fbfrog.png)
+
+## JS Basics
+
+At university I taught C a little, so the basic constructions were already familiar to me. 
+In this course, I learned about the features of the Javascript language and its syntax. 
+It was very interesting to solve algorithmic problems on freecodecamp also. 
+I going to use these knowledge to write quality code in the future :)
+
+![JS Basics](https://github.com/dnzln/kottans-frontend/blob/master/task_js_basics/js.png)
+![JS Basics](https://github.com/dnzln/kottans-frontend/blob/master/task_js_basics/fccjs1.png)
+
+## DOM
+
+This part was little hard to understand, since I had never worked with DOM before. 
+Everything related to the interaction with the page through JS was new to me. 
+I was happy to try my hand at performing a test task, because at the beginning I didn't feel confident at all. 
+I was glad to consolidate my knowledge on practice. I will use understanding of how DOM works pretty often, 
+because it is absolutely necessary for the everyday work of web-developer.
+
+![DOM](https://github.com/dnzln/kottans-frontend/blob/master/task_js_dom/dom.png)
+![DOM](https://github.com/dnzln/kottans-frontend/blob/master/task_js_dom/fccjs2.png)
