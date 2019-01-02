@@ -85,5 +85,8 @@ I was happy to try my hand at performing a test task, because at the beginning I
 I was glad to consolidate my knowledge on practice. I will use understanding of how DOM works pretty often, 
 because it is absolutely necessary for the everyday work of web-developer.
 
+[Demo](https://dnzln.github.io/dom/) | [Code base](https://github.com/dnzln/dom)
+Reviewed and approved by @A-Ostrovnyy
+
 ![DOM](https://github.com/dnzln/kottans-frontend/blob/master/task_js_dom/dom.png)
 ![DOM](https://github.com/dnzln/kottans-frontend/blob/master/task_js_dom/fccjs2.png)
