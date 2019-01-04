@@ -90,3 +90,13 @@ Reviewed and approved by @A-Ostrovnyy
 
 ![DOM](https://github.com/dnzln/kottans-frontend/blob/master/task_js_dom/dom.png)
 ![DOM](https://github.com/dnzln/kottans-frontend/blob/master/task_js_dom/fccjs2.png)
+
+## A Tiny JS World
+
+It was a simple task, so it’s hard to say what was surprising and what was new to me. 
+I was glad to practice coding, and I knew about an interesting use case for array.join 
+and some other nuances about outputting data from an object.
+
+[Demo](https://dnzln.github.io/a-tiny-JS-world/) | [Code base](https://github.com/dnzln/a-tiny-JS-world/blob/gh-pages/index.js)
+Reviewed and approved by @OleksiyRudenko
+
