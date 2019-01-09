@@ -106,20 +106,20 @@ It was a very interesting task, although at the beginning it was difficult to fi
 what to do with the game Frogger. The course on the OOP was not difficult except for some moments,
 for me almost everything was new. I was surprised that in JS you can create a classes in different styles.
 
-![Object Oriented JS](https://github.com/dnzln/kottans-frontend/blob/master/task_js_oop/oop.png)
-![Object Oriented JS](https://github.com/dnzln/kottans-frontend/blob/master/task_js_oop/wars.png)
-
 [Demo](https://dnzln.github.io/frontend-nanodegree-arcade-game/) | [Code base](https://github.com/dnzln/frontend-2019-homeworks/blob/js-oop-frogger/submissions/dnzln/frogger/app.js)
 Reviewed and approved by @OleksiyRudenko
 
-## OOP Exercise
+![Object Oriented JS](https://github.com/dnzln/kottans-frontend/blob/master/task_js_oop/oop.png)
+![Object Oriented JS](https://github.com/dnzln/kottans-frontend/blob/master/task_js_oop/wars.png)
 
-[Demo](https://dnzln.github.io/oop-world/) | [Code base](https://github.com/dnzln/oop-world/blob/master/index.js)
-Reviewed and approved by @OleksiyRudenko
+## OOP Exercise
 
 At first it seemed that it would be easy to remake an OOP program, but as a result it took longer than I thought.
 In the process of completing the assignment I better understood the ideas of the OOP 
 and how to use the ES6 tools to implement the classes.
+
+[Demo](https://dnzln.github.io/oop-world/) | [Code base](https://github.com/dnzln/oop-world/blob/master/index.js)
+Reviewed and approved by @OleksiyRudenko
 
 ## Memory Pair Game
 
