@@ -129,4 +129,12 @@ This task helped to unite my knowledge and reveal weaknesses in them, mainly it 
 [Demo](https://dnzln.github.io/memory-card/) | [Code base](https://github.com/dnzln/memory-card/tree/master)
 Reviewed and approved by @zonzujiro
 
+## Friends App
+
+I liked working on this project, I consolidated the knowledge I gained earlier on working with DOM, 
+some array methods, as well as adaptive layout of the site. New for me were the tools for sending a request 
+such as "fetch", and tools to organize asinc code as "promises".
+
+[Demo](https://dnzln.github.io/friends-app/) | [Code base](https://github.com/dnzln/friends-app)
+Reviewed and approved by @AMashoshyna
 
