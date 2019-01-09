@@ -114,12 +114,12 @@ Reviewed and approved by @OleksiyRudenko
 
 ## OOP Exercise
 
+[Demo](https://dnzln.github.io/oop-world/) | [Code base](https://github.com/dnzln/oop-world/blob/master/index.js)
+Reviewed and approved by @OleksiyRudenko
+
 At first it seemed that it would be easy to remake an OOP program, but as a result it took longer than I thought.
 In the process of completing the assignment I better understood the ideas of the OOP 
 and how to use the ES6 tools to implement the classes.
-
-[Demo](https://dnzln.github.io/oop-world/) | [Code base](https://github.com/dnzln/oop-world/blob/master/index.js)
-Reviewed and approved by @OleksiyRudenko
 
 ## Memory Pair Game
 
